@@ -1,0 +1,7 @@
+[package]
+name = "minijinja-macro-leak"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+minijinja = "1.0.8"
